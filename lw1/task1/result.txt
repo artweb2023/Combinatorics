@@ -1,0 +1,4 @@
+Minimum cost of a Hamiltonian cycle: 48
+Hamilton cycle: 1 2 3 4 5 8 7 6 10 9 1
+
+51 ->210 ->12 ->34 ->36 ->45 ->63 ->67 ->76 ->78 ->85 ->87 ->89 ->98 ->106 ->109 ->
